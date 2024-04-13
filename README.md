@@ -1,8 +1,8 @@
 
-<h1 align="center">midway-boot</h1>
+<h1 align="center">zhengrun—洗车之家</h1>
 <div align="center">
 
-midway-boot是基于阿里巴巴后端框架Midway构建的一套快速启动的Nodejs服务端项目模板，这里提供了常用功能的最佳实践，帮助你快速启动一个基于Nodejs的服务端项目。
+基于后端框架Midway构建的一套快速启动的Nodejs服务端项目。
 
 [![Star](https://img.shields.io/github/stars/bestaone/midway-boot?color=42b883&logo=github&style=flat-square)](https://github.com/bestaone/midway-boot/stargazers)
 [![Fork](https://img.shields.io/github/forks/bestaone/midway-boot?color=42b883&logo=github&style=flat-square)](https://github.com/bestaone/midway-boot/network/members)

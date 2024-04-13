@@ -1,5 +1,5 @@
 
-<h1 align="center">zhengrun—洗车之家</h1>
+<h1 align="center">YuXiu—洗车之家</h1>
 <div align="center">
 
 基于后端框架Midway构建的一套快速启动的Nodejs服务端项目。
